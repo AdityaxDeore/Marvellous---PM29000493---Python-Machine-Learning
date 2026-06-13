@@ -12,3 +12,5 @@
 This repository contains solutions for **Assignment 1** covering Python fundamentals — variables, data types, memory concepts (`id`, `__sizeof__`), input/output, and basic arithmetic operations.
 
 Each question is solved in a separate file with simple, clean Python code.
+
+All files are inside the `Assignment_2/` folder.
