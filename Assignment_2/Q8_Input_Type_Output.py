@@ -1,6 +1,6 @@
-x = input("Enter number: ")
+x = input("Enter number:")
 
-print(type(x))
+print("Type of x is :" , type(x))
 
 # Output (Input: 42):
-# Enter number: <class 'str'>
+# Enter number:Type of x is : <class 'str'>

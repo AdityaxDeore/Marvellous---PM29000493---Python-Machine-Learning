@@ -1,10 +1,10 @@
-a = 10
+no = 11
 
-print(a)
-print(type(a))
-print(id(a))
+print("Value of no is :" , no)
+print("Type of no is :" , type(no))
+print("id of no is :" , id(no))
 
 # Output:
-# 10
-# <class 'int'>
-# 140710091162824
+# Value of no is : 11
+# Type of no is : <class 'int'>
+# id of no is : 140711215891688

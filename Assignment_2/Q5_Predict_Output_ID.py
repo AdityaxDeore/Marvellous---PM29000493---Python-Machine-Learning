@@ -1,7 +1,7 @@
 a = 10
 b = 10
 
-print(id(a) == id(b))
+print("id(a) == id(b) :" , id(a) == id(b))
 
 # Output:
-# True
+# id(a) == id(b) : True

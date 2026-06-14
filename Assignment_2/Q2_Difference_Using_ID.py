@@ -1,21 +1,21 @@
 a = 10
 b = 10
 
-print(id(a))
-print(id(b))
-print(id(a) == id(b))
+print("id of a is :" , id(a))
+print("id of b is :" , id(b))
+print("Same id for int :" , id(a) == id(b))
 
 a = [10]
 b = [10]
 
-print(id(a))
-print(id(b))
-print(id(a) == id(b))
+print("id of a is :" , id(a))
+print("id of b is :" , id(b))
+print("Same id for list :" , id(a) == id(b))
 
 # Output:
-# 140710091162824
-# 140710091162824
-# True
-# 2909338559808
-# 2909340890688
-# False
+# id of a is : 140711215891656
+# id of b is : 140711215891656
+# Same id for int : True
+# id of a is : 1425631438144
+# id of b is : 1425634294400
+# Same id for list : False

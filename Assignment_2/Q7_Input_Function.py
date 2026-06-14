@@ -1,11 +1,16 @@
-x = input()
+x = input("Enter a number:")
 
-print(type(x))
+print("Type before casting :" , type(x))
 
 y = int(x)
 
-print(type(y))
+print("Type after int() :" , type(y))
+
+z = float(x)
+
+print("Type after float() :" , type(z))
 
 # Output (Input: 25):
-# <class 'str'>
-# <class 'int'>
+# Enter a number:Type before casting : <class 'str'>
+# Type after int() : <class 'int'>
+# Type after float() : <class 'float'>

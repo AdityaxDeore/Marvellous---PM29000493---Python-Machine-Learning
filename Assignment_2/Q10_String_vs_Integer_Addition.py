@@ -1,9 +1,9 @@
 a = "10" + "20"
 b = 10 + 20
 
-print(a)
-print(b)
+print("String addition is :" , a)
+print("Integer addition is :" , b)
 
 # Output:
-# 1020
-# 30
+# String addition is : 1020
+# Integer addition is : 30

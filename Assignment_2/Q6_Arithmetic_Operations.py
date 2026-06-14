@@ -1,18 +1,21 @@
-a = int(input())
-b = int(input())
+x = input("Enter number 1:")
+y = input("Enter number 2:")
+
+a = int(x)
+b = int(y)
 
 add = a + b
 sub = a - b
 mul = a * b
 div = a / b
 
-print(add)
-print(sub)
-print(mul)
-print(div)
+print("Addition is :" , add)
+print("Subtraction is :" , sub)
+print("Multiplication is :" , mul)
+print("Division is :" , div)
 
 # Output (Input: 15, 3):
-# 18
-# 12
-# 45
-# 5.0
+# Enter number 1:Enter number 2:Addition is : 18
+# Subtraction is : 12
+# Multiplication is : 45
+# Division is : 5.0
