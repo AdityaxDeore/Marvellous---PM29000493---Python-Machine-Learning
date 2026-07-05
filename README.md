@@ -1,17 +1,8 @@
-# Marvellous Assignment Workspace
+# Marvellous Infosystems — Python Assignment 1
 
-This repository contains assignments 9 through 14. Each assignment is organized in its own folder.
+**Student Name:** Aditya Chandrajit Deore  
+**Student ID:** PM29000493  
+**Course:** Python — Machine Learning with Automations, AI & Generative AI  
+**Institute:** Marvellous Infosystems  
 
-## Assignments
-- Assignment 9
-- Assignment 10
-- Assignment 11
-- Assignment 12
-- Assignment 13
-- Assignment 14
-
-## Usage
-Run the respective Python files as needed.
-
-## License
-MIT License
+---
