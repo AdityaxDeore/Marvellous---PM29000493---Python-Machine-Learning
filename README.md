@@ -1,4 +1,4 @@
-# Marvellous Infosystems — Python Assignment 1
+# Marvellous Infosystems — Python Assignments
 
 **Student Name:** Aditya Chandrajit Deore  
 **Student ID:** PM29000493  
